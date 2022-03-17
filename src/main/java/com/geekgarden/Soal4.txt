@@ -1,0 +1,5 @@
+Jawaban : 7
+- Ini berarti kita hanya memiliki 5 kuda yang tersisa.
+- Sekarang kita berlomba kuda-kuda itu sekali lagi di balapan ketujuh (ke-7)
+- dan kita bisa eleminasi 2 kuda teratas dan itu berarti kita memiliki kuda-kuda tempat ke-2 dan ke-3
+- Jadi Dibutuhkan 7 balapan untuk menemukan 3 kuda teratas dalam masalah ini.
